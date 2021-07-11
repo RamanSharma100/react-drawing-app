@@ -1,3 +1,3 @@
 # react-drawing-app
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-drawing-app)
+[Demo Link](https://react-drawing-app.stackblitz.io/)
